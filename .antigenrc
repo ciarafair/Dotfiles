@@ -1,0 +1,32 @@
+# █████  ███    ██ ████████ ██  ██████  ███████ ███    ██
+#██   ██ ████   ██    ██    ██ ██       ██      ████   ██
+#███████ ██ ██  ██    ██    ██ ██   ███ █████   ██ ██  ██
+#██   ██ ██  ██ ██    ██    ██ ██    ██ ██      ██  ██ ██
+#██   ██ ██   ████    ██    ██  ██████  ███████ ██   ████
+
+# Specify ZSH
+antigen use oh-my-zsh
+
+# Plugins
+antigen bundle auto-color-ls
+antigen bundle autoupdate-antigen 
+antigen bundle brew
+antigen bundle colored-man-pages
+antigen bundle command-not-found
+antigen bundle git
+antigen bundle heroku
+antigen bundle lein
+antigen bundle osx
+antigen bundle pip
+antigen bundle ssh-agent
+antigen bundle tmux
+antigen bundle 
+
+# Syntax highlighting bundle.
+antigen bundle zsh-users/zsh-syntax-highlighting
+
+# Theme
+antigen theme ciarafair/nothing nothing
+
+# Apply changes
+antigen apply

@@ -1,0 +1,86 @@
+#███████ ██   ██ ██   ██ ██████
+#██      ██  ██  ██   ██ ██   ██
+#███████ █████   ███████ ██   ██
+#     ██ ██  ██  ██   ██ ██   ██
+#███████ ██   ██ ██   ██ ██████
+
+#    _             _ _         _   _
+#   /_\  _ __ _ __| (_)__ __ _| |_(_)___ _ _  ___
+#  / _ \| '_ \ '_ \ | / _/ _` |  _| / _ \ ' \(_-<
+# /_/ \_\ .__/ .__/_|_\__\__,_|\__|_\___/_||_/__/
+#       |_|  |_|
+
+ctrl + cmd - r: yabai --restart-service
+
+cmd - 1: open -a Alacritty
+cmd - 2: open -a "Visual Studio Code"
+cmd - 3: open -a "Firefox Developer Edition"
+
+#  ___  _         _
+# |   \(_)____ __| |__ _ _  _
+# | |) | (_-< '_ \ / _` | || |
+# |___/|_/__/ .__/_\__,_|\_, |
+#           |_|          |__/
+
+# Move window to next display
+alt + shift - m: yabai -m window --display next || yabai -m window --display first
+alt + shift - n: yabai -m window --display prev || yabai -m window --display last
+
+# Shift focus to next display
+cmd + shift - m: yabai -m display --focus next || yabai -m display --focus first
+cmd + shift - n: yabai -m display --focus prev || yabai -m display --focus last
+
+# __      ___         _
+# \ \    / (_)_ _  __| |_____ __ _____
+#  \ \/\/ /| | ' \/ _` / _ \ V  V (_-<
+#   \_/\_/ |_|_||_\__,_\___/\_/\_//__/
+
+# Toggle window border
+cmd - p: yabai -m window --toggle border
+
+# Toggle float
+cmd - o: yabai -m window --toggle float;\yabai -m window --grid 4:4:1:1:2:2
+
+# Rotate windows
+cmd - i: yabai -m space --rotate 90
+
+# Toggle padding
+cmd - u: yabai -m space --toggle padding; yabai -m space --toggle gap
+
+# Toggle fullscreen
+cmd - f: yabai -m window --toggle zoom-fullscreen
+
+# Cycle selection
+cmd - h: yabai -m window --focus west || yabai -m window --focus last
+cmd - j: yabai -m window --focus south || yabai -m window --focus last
+cmd - k: yabai -m window --focus north || yabai -m window --focus last
+cmd - l: yabai -m window --focus east || yabai -m window --focus last
+
+# Change size
+shift + cmd - h: yabai -m window west --resize right:-20:0 2> /dev/null || yabai -m window --resize right:-20:0
+shift + cmd - j: yabai -m window north --resize bottom:0:20 2> /dev/null || yabai -m window --resize bottom:0:20
+shift + cmd - k: yabai -m window south --resize top:0:-20 2> /dev/null || yabai -m window --resize top:0:-20
+shift + cmd - l: yabai -m window east --resize left:20:0 2> /dev/null || yabai -m window --resize left:20:0
+
+# Reset size of windows
+cmd - 0: yabai -m space --balance
+
+#  ___
+# / __|_ __  __ _ __ ___ ___
+# \__ \ '_ \/ _` / _/ -_|_-<
+# |___/ .__/\__,_\__\___/__/
+#     |_|
+
+# Cycle through spaces if they are on current display
+cmd - m: yabai -m space --focus next || yabai -m space --focus first
+cmd - n: yabai -m space --focus prev || yabai -m space --focus last
+
+# Create new
+alt - c: yabai -m space --create
+
+# Destroy current
+alt - q: yabai -m space --destroy
+
+# Move window and focus
+alt - m: yabai -m window --space next
+alt - n: yabai -m window --space prev
