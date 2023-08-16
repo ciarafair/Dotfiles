@@ -13,6 +13,7 @@ setopt autocd
 
 # Export paths
 export PATH=/Users/ciara/.local/bin:$PATH
+export XDG_CONFIG_HOME="$HOME/.config/zsh"
 
 #   _  _               _
 #  | || |___ _ __  ___| |__ _ _ _____ __ __
