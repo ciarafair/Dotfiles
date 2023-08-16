@@ -71,9 +71,10 @@ cmd - 0: yabai -m space --balance
 # |___/ .__/\__,_\__\___/__/
 #     |_|
 
-# Cycle through spaces if they are on current display
-cmd - m: yabai -m space --focus next || yabai -m space --focus first
-cmd - n: yabai -m space --focus prev || yabai -m space --focus last
+
+# Focus next space
+cmd - m: yabai -m space --focus prev || yabai -m space --focus last
+cmd - n: yabai -m space --focus next || yabai -m space --focus first
 
 # Create new
 alt - c: yabai -m space --create
