@@ -1,15 +1,9 @@
-# █████  ██      ██  █████  ███████
-#██   ██ ██      ██ ██   ██ ██
-#███████ ██      ██ ███████ ███████
-#██   ██ ██      ██ ██   ██      ██
-#██   ██ ███████ ██ ██   ██ ███████
-
 #!/usr/bin/env zsh
 
-#    _   _ _
-#   /_\ | (_)__ _ ___
-#  / _ \| | / _` (_-<
-# /_/ \_\_|_\__,_/__/
+#   ___                       _
+#  / __|___ _ _  ___ _ _ __ _| |
+# | (_ / -_) ' \/ -_) '_/ _` | |
+#  \___\___|_||_\___|_| \__,_|_|
 
 alias neof="clear && neofetch"
 alias pipes="pipes.sh -t 3"
@@ -29,7 +23,6 @@ alias tmk="killall tmux;tmux new -Asmain"
 alias tls="tmux ls "
 alias tma="tmux a"
 alias tm="tmux new -Asmain"
-alias resetTMUX="tmux kill-server; rm -r ~/.tmux.conf; rm -r /opt/homebrew/etc/tmux.conf"
 
 # File Explorer
 alias n="nnn"
@@ -44,11 +37,13 @@ alias N="sudo -E nnn -dH"
 alias df="duf"
 
 # File search
-alias lx="exa -a --color=always --group-directories-first"
-alias lxa="exa -la --color=always --group-directories-first"
+alias ls="exa -a --color=always --group-directories-first"
 
 # Neovim
+alias vim="nvim"
+alias vi="nvim"
 alias v="nvim"
+alias vconf="nvim ~/.config/nvim/init.lua"
 
 # Benchmarks
 alias fio1="fio --ioengine=libaio --direct=1 --sync=1 --rw=read --bs=4K --numjobs=1 --iodepth=1 --runtime=60 --time_based --name seq_read --filename=/dev/sda"
