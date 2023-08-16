@@ -1,0 +1,14 @@
+font:
+  normal:
+    family: VictorMono Nerd Font Propo
+    style: Regular
+  bold:
+    family: "VictorMono Nerd Font Propo"
+    style: Bold
+  italic:
+    family: "VictorMono Nerd Font Propo"
+    style: Italic
+  bold_italic:
+    family: "VictorMono Nerd Font Propo"
+    style: Bold Italic
+  size: 15
