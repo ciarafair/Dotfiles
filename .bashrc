@@ -5,4 +5,4 @@
 # | (_ / -_) ' \/ -_) '_/ _` | |
 #  \___\___|_||_\___|_| \__,_|_|
 
-source $HOME/.config/.alias
+source $HOME/.config/.aliases

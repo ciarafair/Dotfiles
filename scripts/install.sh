@@ -7,8 +7,8 @@ while true; do
 	read -p "Are you using a host machine? (y/n): " answer
 
 	if [ "$answer" = "y" ]; then
-		$HOME/.config/scripts/zshenv.sh >$HOME/.zshenv
 		echo "source $HOME/.config/.bashrc" >$HOME/.bashrc
+		echo "source $HOME/.config/.zshrc" >$HOME/.zshrc
 		echo "source $HOME/.config/tmux/tmux.conf" >$HOME/.tmux.conf
 		echo "source $HOME/.config/.yarnrc" >$HOME/.yarnrc
 		echo "source $HOME/.config/vim/.vimrc" >$HOME/.vimrc

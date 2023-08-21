@@ -6,7 +6,7 @@
 #  \___\___|_||_\___|_| \__,_|_|
 
 # Imports
-source $HOME/.config/scripts/alias.sh
+source $HOME/.config/.aliases
 
 # Options
 setopt autocd
