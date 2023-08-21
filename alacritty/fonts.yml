@@ -1,14 +1,14 @@
 font:
   normal:
-    family: VictorMono Nerd Font Propo
+    family: "Iosevka Term"
     style: Regular
   bold:
-    family: "VictorMono Nerd Font Propo"
+    family: "Iosevka Term"
     style: Bold
   italic:
-    family: "VictorMono Nerd Font Propo"
+    family: "Iosevka Term"
     style: Italic
   bold_italic:
-    family: "VictorMono Nerd Font Propo"
+    family: "Iosevka Term"
     style: Bold Italic
   size: 15

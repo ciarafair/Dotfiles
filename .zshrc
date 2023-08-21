@@ -7,6 +7,7 @@
 
 # Imports
 source $HOME/.config/.aliases
+source $HOME/.config/.tunnels
 
 # Options
 setopt autocd
