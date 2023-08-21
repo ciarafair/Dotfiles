@@ -10,6 +10,8 @@ while true; do
 		$HOME/.config/scripts/zshenv.sh >$HOME/.zshenv
 		echo "source $HOME/.config/.bashrc" >$HOME/.bashrc
 		echo "source $HOME/.config/tmux/tmux.conf" >$HOME/.tmux.conf
+		echo "source $HOME/.config/.yarnrc" >$HOME/.yarnrc
+		echo "source $HOME/.config/vim/.vimrc" >$HOME/.vimrc
 		echo "Sourced files to the config directory."
 
 		break

@@ -39,12 +39,6 @@ alias df="duf"
 # File search
 alias ls="exa -a --color=always --group-directories-first"
 
-# Neovim
-alias vim="nvim"
-alias vi="nvim"
-alias v="nvim"
-alias vconf="nvim ~/.config/nvim/init.lua"
-
 # Benchmarks
 alias fio1="fio --ioengine=libaio --direct=1 --sync=1 --rw=read --bs=4K --numjobs=1 --iodepth=1 --runtime=60 --time_based --name seq_read --filename=/dev/sda"
 alias speed="speedtest-cli --simple"
