@@ -71,5 +71,3 @@ else
     tmux attach -t default || tmux new
   fi
 fi
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
