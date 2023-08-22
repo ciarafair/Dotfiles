@@ -11,13 +11,13 @@
 <div align="center">
 
 ```
-M""""""'YMM MMP"""""YMM M""""""""M MM""""""""`M M""M M""MMMMMMMM MM""""""""`M MP""""""`MM
-M  mmmm. `M M' .mmm. `M Mmmm  mmmM MM  mmmmmmmM M  M M  MMMMMMMM MM  mmmmmmmM M  mmmmm..M
-M  MMMMM  M M  MMMMM  M MMMM  MMMM M'      MMMM M  M M  MMMMMMMM M`      MMMM M.      `YM
-M  MMMMM  M M  MMMMM  M MMMM  MMMM MM  MMMMMMMM M  M M  MMMMMMMM MM  MMMMMMMM MMMMMMM.  M
-M  MMMM' .M M. `MMM' .M MMMM  MMMM MM  MMMMMMMM M  M M  MMMMMMMM MM  MMMMMMMM M. .MMM'  M
-M       .MM MMb     dMM MMMM  MMMM MM  MMMMMMMM M  M M         M MM        .M Mb.     .dM
-MMMMMMMMMMM MMMMMMMMMMM MMMMMMMMMM MMMMMMMMMMMM MMMM MMMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMM
+M""""""'YMM            dP   .8888b oo dP                  
+M  mmmm. `M            88   88   "    88                  
+M  MMMMM  M .d8888b. d8888P 88aaa  dP 88 .d8888b. .d8888b.
+M  MMMMM  M 88'  `88   88   88     88 88 88ooood8 Y8ooooo.
+M  MMMM' .M 88.  .88   88   88     88 88 88.  ...       88
+M       .MM `88888P'   dP   dP     dP dP `88888P' `88888P'
+MMMMMMMMMMM                                               
 ```
 
 </div>
