@@ -15,12 +15,11 @@ NEVER SKIP / IGNORE / AVOID README
 
 ```
 
-     dBBBBb  dBBBBP  dBBBBBBP dBBBBP dBP dBP    dBBBP.dBBBBP
-        dB' dB'.BP                                   BP
-   dBP dB' dB'.BP     dBP   dBBBP  dBP dBP    dBBP   `BBBBb
-  dBP dB' dB'.BP     dBP   dBP    dBP dBP    dBP        dBP
- dBBBBB' dBBBBP     dBP   dBP    dBP dBBBBP dBBBBP dBBBBP'
-
+'||''|.    ..|''||   |''||''| '||''''| '||' '||'      '||''''|   .|'''.|
+ ||   ||  .|'    ||     ||     ||  .    ||   ||        ||  .     ||..  '
+ ||    || ||      ||    ||     ||''|    ||   ||        ||''|      ''|||.
+ ||    || '|.     ||    ||     ||       ||   ||        ||       .     '||
+.||...|'   ''|...|'    .||.   .||.     .||. .||.....| .||.....| |'....|'
 
 ```
 
