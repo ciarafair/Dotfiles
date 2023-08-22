@@ -5,16 +5,13 @@
 ██   ██ ██      ██   ██ ██   ██ ██  ██  ██ ██
 ██   ██ ███████ ██   ██ ██████  ██      ██ ███████
 -->
-
 <div align="justify">
+
+<div align="center">
 
 ```javascript
 NEVER SKIP / IGNORE / AVOID README
 ```
-
-</div>
-
-<div align="justify">
 
 ```css
       __/)   ‌‌‌‌‬‬‬‍ ‌‌‌‌‌‬‌‌   ‌‌‌‌‌﻿‌‬ ‌‌‌‌‌﻿‌‌‌‌‌‌‌﻿‌‬        ‌‌‌‌‌﻿‌‬_      ‌‌‌‌‌‬‌‌_       ‌‌‌‌‍‬﻿﻿  ‌‌‌‌‍﻿‍﻿
@@ -46,3 +43,5 @@ on storing config files in a github repo, [Dreams of Code](https://www.youtube.c
 - [Neovim Video Guide 2](https://www.youtube.com/watch?v=stqUbv-5u2s&ab_channel=TJDeVries)
 - [Tmux Video Guide](https://www.youtube.com/watch?v=DzNmUNvnB04&t=591s&ab_channel=DreamsofCode)
 - [Yabai Video Guide](https://www.youtube.com/watch?v=JL1lz77YbUE&t=957s&ab_channel=JesseSkelton)
+
+</div>
