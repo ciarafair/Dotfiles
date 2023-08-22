@@ -15,13 +15,12 @@ NEVER SKIP / IGNORE / AVOID README
 
 ```
 
-M""""""'YMM MMP"""""YMM M""""""""M MM""""""""`M M""M M""MMMMMMMM MM""""""""`M MP""""""`MM
-M  mmmm. `M M' .mmm. `M Mmmm  mmmM MM  mmmmmmmM M  M M  MMMMMMMM MM  mmmmmmmM M  mmmmm..M
-M  MMMMM  M M  MMMMM  M MMMM  MMMM M'      MMMM M  M M  MMMMMMMM M`      MMMM M.      `YM
-M  MMMMM  M M  MMMMM  M MMMM  MMMM MM  MMMMMMMM M  M M  MMMMMMMM MM  MMMMMMMM MMMMMMM.  M
-M  MMMM' .M M. `MMM' .M MMMM  MMMM MM  MMMMMMMM M  M M  MMMMMMMM MM  MMMMMMMM M. .MMM'  M
-M       .MM MMb     dMM MMMM  MMMM MM  MMMMMMMM M  M M         M MM        .M Mb.     .dM
-MMMMMMMMMMM MMMMMMMMMMM MMMMMMMMMM MMMMMMMMMMMM MMMM MMMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMM
+     dBBBBb  dBBBBP  dBBBBBBP dBBBBP dBP dBP    dBBBP.dBBBBP
+        dB' dB'.BP                                   BP
+   dBP dB' dB'.BP     dBP   dBBBP  dBP dBP    dBBP   `BBBBb
+  dBP dB' dB'.BP     dBP   dBP    dBP dBP    dBP        dBP
+ dBBBBB' dBBBBP     dBP   dBP    dBP dBBBBP dBBBBP dBBBBP'
+
 
 ```
 
