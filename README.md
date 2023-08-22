@@ -15,19 +15,14 @@ NEVER SKIP / IGNORE / AVOID README
 
 ```
 
-██████   ██████  ████████ ███████ ██ ██      ███████ ███████
-██   ██ ██    ██    ██    ██      ██ ██      ██      ██
-██   ██ ██    ██    ██    █████   ██ ██      █████   ███████
-██   ██ ██    ██    ██    ██      ██ ██      ██           ██
-██████   ██████     ██    ██      ██ ███████ ███████ ███████
+  ___   ___ _____ ___ ___ _    ___ ___
+ |   \ / _ \_   _| __|_ _| |  | __/ __|
+ | |) | (_) || | | _| | || |__| _|\__ \
+ |___/ \___/ |_| |_| |___|____|___|___/
 
 ```
 
 </div>
-
-Thank you [Mat Jones](https://github.com/mrjones2014) for the wonderful
-[guide](https://mjones44.medium.com/storing-dotfiles-in-a-git-repository-53f765c0005d)
-on storing config files in a github repo, [Dreams of Code](https://www.youtube.com/@dreamsofcode) for the helpful guide on Tmux
 
 # Quick Links
 
