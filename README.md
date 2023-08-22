@@ -14,6 +14,9 @@
 
 </div>
 
+# Wikis
+For more information go to the Wiki pages at the [top of the page](https://github.com/ciarafair/dotfiles/wiki).
+
 # Quick Links
 
 [`ZSH 🔗`](https://zsh.sourceforge.io/) [`Oh-My-ZSH 🔗`](https://ohmyz.sh/) [`Bash 🔗`](https://www.gnu.org/software/bash/) [`iTerm2 🔗`](https://iterm2.com/) [`HomeBrew 🔗`](https://brew.sh/) [`Apt 🔗`](https://man7.org/linux/man-pages/man1/dpkg.1.html) [`Neovim 🔗`](https://neovim.io/) [`TMUX 🔗`](https://github.com/tmux/tmux) [`Neofetch 🔗`](https://github.com/dylanaraps/neofetch) [`NNN 🔗`](https://github.com/jarun/nnn) [`Antigen 🔗`](https://github.com/zsh-users/antigen) [`Bash Aptfile 🔗`](https://github.com/seatgeek/bash-aptfile) [`Arttime 🔗`](https://github.com/poetaman/arttime) [`DUF 🔗`](https://github.com/muesli/duf) [`Victor-Mono 🔗`](https://github.com/rubjo/victor-mono) [`Karabiner-Elements 🔗`](https://karabiner-elements.pqrs.org/)
