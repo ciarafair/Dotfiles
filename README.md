@@ -9,11 +9,11 @@
 
 <div align="center">
 
-```javascript
+```js
 NEVER SKIP / IGNORE / AVOID README
 ```
 
-```javascript
+```
 
 M""""""'YMM MMP"""""YMM M""""""""M MM""""""""`M M""M M""MMMMMMMM MM""""""""`M MP""""""`MM
 M  mmmm. `M M' .mmm. `M Mmmm  mmmM MM  mmmmmmmM M  M M  MMMMMMMM MM  mmmmmmmM M  mmmmm..M
