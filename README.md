@@ -6,10 +6,13 @@
 ██   ██ ███████ ██   ██ ██████  ██      ██ ███████
 -->
 
+<div align="justify">
 ```ocaml
 NEVER SKIP / IGNORE / AVOID README
 ```
+</div>
 
+<div align="justify">
 ```css
       __/)   ‌‌‌‌‬‬‬‍ ‌‌‌‌‌‬‌‌   ‌‌‌‌‌﻿‌‬ ‌‌‌‌‌﻿‌‌‌‌‌‌‌﻿‌‬        ‌‌‌‌‌﻿‌‬_      ‌‌‌‌‌‬‌‌_       ‌‌‌‌‍‬﻿﻿  ‌‌‌‌‍﻿‍﻿
    .‌‌‌‌‍‬﻿‌-(_‌‌‌‌‌﻿‍‌_(=:   |   ‌‌‌‌‍‬‌﻿   ‌‌‌‌‍‬‍‍   ‌‌‌‌‌‬‌‌ | | o  | |     ‌‌‌‌‌﻿﻿‌
@@ -19,6 +22,7 @@ NEVER SKIP / IGNORE / AVOID README
   \|                     |\
    |  6F 77 6C 34 63 65  |/  with aesthetics
 ```
+</div>
 
 Thank you [Mat Jones](https://github.com/mrjones2014) for the wonderful
 [guide](https://mjones44.medium.com/storing-dotfiles-in-a-git-repository-53f765c0005d)
