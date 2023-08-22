@@ -14,7 +14,6 @@ NEVER SKIP / IGNORE / AVOID README
 ```
 ⁤⁤
 ```
-
 M""""""'YMM            dP   .8888b oo dP
 M  mmmm. `M            88   88   "    88
 M  MMMMM  M .d8888b. d8888P 88aaa  dP 88 .d8888b. .d8888b.
@@ -22,7 +21,6 @@ M  MMMMM  M 88'  `88   88   88     88 88 88ooood8 Y8ooooo.
 M  MMMM' .M 88.  .88   88   88     88 88 88.  ...       88
 M       .MM `88888P'   dP   dP     dP dP `88888P' `88888P'
 MMMMMMMMMMM
-
 ```
 
 </div>
