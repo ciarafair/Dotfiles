@@ -2,16 +2,15 @@
 
 clear
 while true; do
-	read -p "Are you using a host machine? (y/n): " answer
+	read -p "Do you want to hush login? (y/n): " answer
 	if [ "$answer" = "y" ]; then
-		echo "Setting ZSH environment with .zshenv"
-		$HOME/.config/scripts/zshenv.sh >$HOME/.zshenv
 		$HOME/.config/scripts/update.sh
+		$HOME/.config/scripts/symlink.sh
+		$HOME/.config/scripts/hushlogin.sh
 		break
 	elif [ "$answer" = "n" ]; then
-		echo "Setting ZSH environment with .zshenv"
-		$HOME/.config/scripts/zshenv.sh >$HOME/.zshenv
 		$HOME/.config/scripts/update.sh
+		$HOME/.config/scripts/symlink.sh
 		break
 	else
 		echo "Invalid input. Please enter 'y' or 'n'."

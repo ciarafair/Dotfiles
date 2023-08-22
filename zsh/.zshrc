@@ -16,13 +16,6 @@ setopt autocd
 export PATH=/Users/ciara/.local/bin:$PATH
 export XDG_CONFIG_HOME="$HOME/.config/zsh"
 
-#   _  _               _
-#  | || |___ _ __  ___| |__ _ _ _____ __ __
-#  | __ / _ \ '  \/ -_) '_ \ '_/ -_) V  V /
-#  |_||_\___/_|_|_\___|_.__/_| \___|\_/\_/
-
-$HOME/.config/scripts/brew.sh
-
 #   /_\  _ _| |_(_)__ _ ___ _ _
 #  / _ \| ' \  _| / _` / -_) ' \
 # /_/ \_\_||_\__|_\__, \___|_||_|
