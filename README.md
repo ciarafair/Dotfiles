@@ -10,10 +10,6 @@
 
 <div align="center">
 
-```js
-NEVER SKIP / IGNORE / AVOID README
-```
-⁤⁤
 ```
 
 ██████   ██████  ████████ ███████ ██ ██      ███████ ███████
