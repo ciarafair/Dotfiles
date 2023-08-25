@@ -5,6 +5,7 @@ while true; do
 	read -p "Do you want to hush login? (y/n): " answer
 	if [ "$answer" = "y" ]; then
 		$HOME/.config/scripts/update.sh
+		$HOME/.config/scripts/backup.sh
 		$HOME/.config/scripts/symlink.sh
 		$HOME/.config/scripts/hushlogin.sh
 		break
