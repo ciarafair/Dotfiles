@@ -1,4 +1,4 @@
 #!/bin/sh
 
-touch .hushlogin
+touch $HOME/.hushlogin
 echo "Wrote .hushlogin file"
