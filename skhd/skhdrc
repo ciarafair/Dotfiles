@@ -73,8 +73,8 @@ cmd - 0: yabai -m space --balance
 
 
 # Focus next space
-cmd - m: yabai -m space --focus prev
-cmd - n: yabai -m space --focus next
+cmd - m: yabai -m space --focus next
+cmd - n: yabai -m space --focus prev
 
 # Create new
 alt - c: yabai -m space --create
