@@ -23,12 +23,12 @@ cmd - 3: open -a "Firefox Developer Edition"
 #           |_|          |__/
 
 # Move window to next display
-alt + shift - m: yabai -m window --display next || yabai -m window --display first
-alt + shift - n: yabai -m window --display prev || yabai -m window --display last
+alt + shift - m: yabai -m window --display next
+alt + shift - n: yabai -m window --display prev
 
 # Shift focus to next display
-cmd + shift - m: yabai -m display --focus next || yabai -m display --focus first
-cmd + shift - n: yabai -m display --focus prev || yabai -m display --focus last
+cmd + shift - m: yabai -m display --focus next
+cmd + shift - n: yabai -m display --focus prev
 
 # __      ___         _
 # \ \    / (_)_ _  __| |_____ __ _____
@@ -73,8 +73,8 @@ cmd - 0: yabai -m space --balance
 
 
 # Focus next space
-cmd - m: yabai -m space --focus prev || yabai -m space --focus last
-cmd - n: yabai -m space --focus next || yabai -m space --focus first
+cmd - m: yabai -m space --focus prev
+cmd - n: yabai -m space --focus next
 
 # Create new
 alt - c: yabai -m space --create
