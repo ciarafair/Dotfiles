@@ -1,8 +1,8 @@
 .DS_Store
-.zsh_history
-.tunnels
-node_modules
 .gitignore
+.tunnels
+.zsh_history
+cache
 local/share
 Microsoft\VisualStudio Services
-cache
+node_modules
