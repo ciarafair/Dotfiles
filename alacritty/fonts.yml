@@ -1,14 +1,14 @@
 font:
   normal:
-    family: "Iosevkaterm Nerd Font Mono"
+    family: "Iosevka"
     style: Regular
   bold:
-    family: "Iosevkaterm Nerd Font Mono"
+    family: "Iosevka"
     style: Bold
   italic:
-    family: "Iosevkaterm Nerd Font Mono"
+    family: "Iosevka"
     style: Italic
   bold_italic:
-    family: "Iosevkaterm Nerd Font Mono"
+    family: "Iosevka"
     style: Bold Italic
   size: 15

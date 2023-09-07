@@ -2,6 +2,7 @@
 .zsh_history
 .tunnels
 node_modules
-cache/typescript/5.3/package-lock.json
 .gitignore
-cache/typescript/5.3/package.json
+local/share
+Microsoft\VisualStudio Services
+cache

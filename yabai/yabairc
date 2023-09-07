@@ -24,7 +24,6 @@ gaps["inner"]="8"
 #  \___|_\___/_.__/\__,_|_|
 
 yabai -m config layout                      bsp
-
 yabai -m config window_origin_display       default
 yabai -m config window_placement            second_child
 yabai -m config window_topmost              off
@@ -55,7 +54,7 @@ yabai -m config insert_feedback_color       "0xffa03b31"
 
 
 #  ___         _    _ _
-# | _ \__ _ __| |__| (_)_ _  __ _
+# | _ \__ _ __| |__| (_)_ _  __ _o
 # |  _/ _` / _` / _` | | ' \/ _` |
 # |_| \__,_\__,_\__,_|_|_||_\__, |
 #                           |___/
