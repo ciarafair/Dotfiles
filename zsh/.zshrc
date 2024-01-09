@@ -6,7 +6,6 @@
 
 # Imports
 source $HOME/.dotfiles/aliases.zsh
-source $HOME/.dotfiles/tunnels.zsh
 
 # Options
 setopt autocd
@@ -57,10 +56,10 @@ antigen apply
 #   | || '  \ || \ \ /
 #   |_||_|_|_\_,_/_\_\
 
-if [ -n "$SSH_CLIENT" ]; then
-  echo "In ssh session. Not connecting to TMUX."
-else
-  if command -v tmux &>/dev/null && [ -z "$TMUX" ]; then
-    tmux attach -t default || tmux new
-  fi
-fi
+#if [ -n "$SSH_CLIENT" ]; then
+#  echo "In ssh session. Not connecting to TMUX."
+#else
+#  if command -v tmux &>/dev/null && [ -z "$TMUX" ]; then
+#    tmux attach -t default || tmux new
+#  fi
+#fi

@@ -148,7 +148,7 @@ else
     echo "Neofetch directory does not exist."
     mkdir $HOME/.config/neofetch
 fi
-ln -sf $HOME/.dotfiles/neofetch/config.conf $HOME/.config/neofetch/config.conf
+ln -sf $HOME/.dotfiles/neofetch/config.conf $HOME/.config/zsh/neofetch/config.conf
 
 if [ -d $HOME/.config/alacritty ]
 then
