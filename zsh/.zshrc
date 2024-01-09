@@ -1,4 +1,3 @@
-#!/usr/bin/env zsh
 
 #   ___                       _
 #  / __|___ _ _  ___ _ _ __ _| |
@@ -6,8 +5,8 @@
 #  \___\___|_||_\___|_| \__,_|_|
 
 # Imports
-source $HOME/.config/.aliases
-source $HOME/.config/.tunnels
+source $HOME/.dotfiles/aliases.zsh
+source $HOME/.dotfiles/tunnels.zsh
 
 # Options
 setopt autocd
@@ -44,12 +43,13 @@ antigen bundle
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
 
-if [ -n "$SSH_CLIENT" ]; then
-  antigen theme candy
-else
-  antigen theme ciarafair/nothing nothing
-fi
+#if [ -n "$SSH_CLIENT" ]; then
+#  antigen theme candy
+#else
+#  antigen theme ciarafair/nothing nothing
+#fi
 
+antigen theme ciarafair/nothing nothing
 antigen apply
 
 #  _____

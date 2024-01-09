@@ -1,34 +1,35 @@
-import:
-  - ~/.config/alacritty/colors.yml
-  - ~/.config/alacritty/fonts.yml
-  - ~/.config/alacritty/window.yml
-
 env:
-  TERM: alacritty
+  TERM: xterm-256color
 
-Default:
-  shell:
-    program: /bin/zsh
-    args: login
-  working_directory: None
+window:
+  padding:
+    x: 6
+    y: 6
+
+  decorations: full
+
+  title: Alacritty
+
+  class:
+    instance: Alacritty
+    general: Alacritty
+  gtk_theme_variant: None
+
+tabspaces: 4
 
 scrolling:
-  history: 10000
-  multiplier: 3
+  history: 5000
 
-  offset:
-    x: 0
-    y: 0
+import: 
+  - ~/.dotfiles/alacritty/theme.yml
+  - ~/.dotfiles/alacritty/fonts.yml
+  - ~/.dotfiles/alacritty/keybindings.yml
+  - ~/.dotfiles/alacritty/cursor.yml
 
-  glyph_offset:
-    x: 0
-    y: 0
-
-mouse:
-  double_click: { threshold: 300 }
-  triple_click: { threshold: 300 }
-
-option_as_alt: Both
-save_to_clipboard: true
+dynamic_title: true
 live_config_reload: true
-hide_when_typing: true
+
+shell:
+  program: /usr/bin/zsh
+
+working_directory: None

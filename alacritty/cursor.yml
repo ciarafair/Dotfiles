@@ -4,5 +4,5 @@ cursor:
     blinking: On
   blink_interval: 750
   blink_timeout: 0
-  unfocused_hollow: false
+  unfocused_hollow: true
   thickness: 0.15

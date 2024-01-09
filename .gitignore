@@ -1,9 +1,1 @@
-.DS_Store
-.gitignore
-.tunnels
-.zsh_history
-.zsh_sessions
-cache
-local/share
-Microsoft\VisualStudio Services
-node_modules
+.gitconfig
